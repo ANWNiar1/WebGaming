@@ -1,0 +1,126 @@
+body{
+    background-image: linear-gradient(to bottom,skyblue,white,skyblue,white) ;
+}
+
+.bady{
+    width: 1000px;
+
+}
+
+.bida{
+    background-image: linear-gradient(to bottom,skyblue,white,skyblue,white) ;
+}
+
+
+.down{
+    text-align: center;
+
+}
+
+.Heading{
+    font-style: initial;
+    font-size: 20px;
+}
+
+.HEADING{
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.Heaading{
+    margin-left: 15px;
+    
+}
+
+	#button{
+    color: white;
+    border-radius: 10px;
+    padding: 5px 15px;
+    margin-right : 10px;
+    cursor: pointer;
+    font-style: italic;
+    font-size: 15px;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right,white,lightblue,lightblue,white);}
+#ig{
+    float: right;
+    margin-right: 10px;
+}
+
+.pengertian{
+    margin-left: 20px;
+    width: 870px;
+}
+
+.Alur{
+    margin-left: 20px;
+    width: 870px;
+}
+
+.karakter{
+    margin-left: 20px;
+    width: 870px;
+}
+
+
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+
+.definisi{
+    color: red;
+}
+
+
+.infoboxproduct{
+    width: 5em;float: right; 
+    width: 100px; font-size: 88%; 
+    text-align: left; border-spacing: 3px;    
+}
+
+
+.col{
+    text-align:center;font-size:125%;
+    font-weight:bold;font-size:110%;
+    font-style:italic;
+}
+
+
+.image{
+    width: 50;
+    height: 30;
+}
+
+
+.ProPlayyer{
+    margin-left: 20px;
+    width: 870px;
+}
+
+
+.container-menu{
+    margin-left: 30px;
+    width: 1000px;
+}
+
+#Head{
+    text-align: center;
+}
+
+.container1{
+    margin-top: 20px;
+    mar
+}
+
+
+
+
+    
+
+
+
